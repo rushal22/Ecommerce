@@ -1,0 +1,13 @@
+[
+  {
+    "CartId": "0f7be35b-3f71-4a15-af14-b2d9c1b8b2b9",
+    "UserId": "98b69436-d691-47ff-904b-d29e5501b25a",
+    "Products": [
+      {
+        "id": "30939740-d5df-4fc8-928c-5af178c0c832",
+        "Quantity": 10
+      }
+    ],
+    "status": "deactive"
+  }
+]
